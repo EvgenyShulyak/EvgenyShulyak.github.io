@@ -31,5 +31,5 @@ disqus_shortname:
 excerpt_separator: <!--description-->
 
 # gems:
-gems: [jekyll-paginate]
-paginate: 4
+# gems: [jekyll-paginate]
+# paginate: 4
