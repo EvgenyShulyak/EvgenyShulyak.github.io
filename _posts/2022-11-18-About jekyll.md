@@ -5,7 +5,7 @@ date: 2022-11-18 21:06:26
 categories:  New Jekyll
 ---
 
-####Хочу предложить Вашему вниманию Jekyll. 
+#### Хочу предложить Вашему вниманию Jekyll. 
 
 Jekyll - простой, основанный на блогах, статический 
 генератор сайта. 
@@ -31,6 +31,7 @@ Github поддерживает Jekyll, создаете
 
 Вот ссылки по установке,настройке,работе:
 
-https://jekyllrb.com/docs/
+<a href=https://jekyllrb.com/docs/>jekyllrb.com</a>
 
- https://www.youtube.com/watch?v=xrxY5h906iI&list=PLyHuZVg03hQjtV45HPlfuPzHJOtEoK6DT&index=2
+ <a href=https://www.youtube.com/watch?
+ v=xrxY5h906iI&list=PLyHuZVg03hQjtV45HPlfuPzHJOtEoK6DT&index=2>youtube</a>
