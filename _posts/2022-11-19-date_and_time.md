@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "date_and_time"
-date: 2022-11-19 10:06:26
 categories: News Linux
 ---
 
