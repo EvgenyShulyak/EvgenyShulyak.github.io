@@ -30,7 +30,7 @@ Github поддерживает Jekyll, создаете
 
 Вот ссылки по установке,настройке,работе:
 
-<a href=https://jekyllrb.com/docs/>jekyllrb.com</a>
+<a href="https://jekyllrb.com/docs/">jekyllrb.com</a>
 
- <a href=https://www.youtube.com/watch?
- v=xrxY5h906iI&list=PLyHuZVg03hQjtV45HPlfuPzHJOtEoK6DT&index=2>youtube</a>
+ <a href="https://www.youtube.com/watch?
+ v=xrxY5h906iI&list=PLyHuZVg03hQjtV45HPlfuPzHJOtEoK6DT&index=2"> youtube </a>
