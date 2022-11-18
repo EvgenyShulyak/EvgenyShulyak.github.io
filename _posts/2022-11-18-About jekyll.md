@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  About jekyll
-categories:  New Jekyll
+categories:  News Jekyll
 ---
 
 #### Хочу предложить Вашему вниманию Jekyll. 
