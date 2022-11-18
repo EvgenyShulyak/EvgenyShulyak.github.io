@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "date_and_time"
+title:  date and time
 categories: News Linux
 ---
 
