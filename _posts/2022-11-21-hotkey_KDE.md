@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  hostnamectl
+title:  hotkey KDE
 categories: News Linux
 ---
 
