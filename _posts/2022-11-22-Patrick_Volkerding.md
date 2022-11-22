@@ -1,7 +1,8 @@
+---
 layout: post
 title: Patrick Volkerding  
 categories: Interesting News
-
+---
 ### Patrick Volkerding 
 
  Патрик Фолькердинг (Patrick J. Volkerding, также известный как Mr. Slackware и The Man, род. 20 
