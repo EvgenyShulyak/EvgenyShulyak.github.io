@@ -155,4 +155,4 @@ Slackware использует стартовые скрипты стиля BSD,
 
 - для slapt-get — gslapt.
 
-***https://ru.wikipedia.org/wiki/Slackware***
+Взято с сайта: ***https://ru.wikipedia.org/wiki/Slackware***
