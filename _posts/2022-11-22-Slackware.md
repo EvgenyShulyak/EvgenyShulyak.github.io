@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Slackware
-category: Linux
+category: News Linux
 ---
 
 
