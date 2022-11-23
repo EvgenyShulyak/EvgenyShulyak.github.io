@@ -29,7 +29,8 @@ categories: Interesting News
  С середины 1990-х годов Столлман стал программировать значительно меньше, посвятив себя 
  распространению идей свободного ПО.
 
-><a class="blu" href="https://disk.yandex.ru/i/FReb-kI_tKQJeQ" target="_blank" >***Ричард Мэттью Столлман (англ. Richard Matthew Stallman***</a> - 
+><a class="blu" href="https://disk.yandex.ru/i/FReb-kI_tKQJeQ" target="_blank" >***Ричард Мэттью 
+> Столлман (англ. Richard Matthew Stallman)***</a> - 
 >***"Фото-ссылка"***
 
 Ричард Столлман на LibrePlanet 2019.
