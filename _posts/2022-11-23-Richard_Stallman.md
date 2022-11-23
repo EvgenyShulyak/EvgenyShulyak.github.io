@@ -32,8 +32,7 @@ categories: Interesting News
 ><a class="blu" href="https://disk.yandex.ru/i/FReb-kI_tKQJeQ" target="_blank" >***Ричард Мэттью 
 > Столлман (англ. Richard Matthew Stallman)***</a> - 
 >***"Фото-ссылка"***
-
-Ричард Столлман на LibrePlanet 2019.
+>Ричард Столлман на LibrePlanet 2019.
 
 Дата рождения	16 марта 1953 (69 лет)
 
