@@ -1,2 +1,7 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://evgenyshulyak.github.io/sitemap.xml
+Host: https://evgenyshulyak.github.io/
+https://evgenyshulyak.github.io/
+https://evgenyshulyak.github.io/sitemap.xml
