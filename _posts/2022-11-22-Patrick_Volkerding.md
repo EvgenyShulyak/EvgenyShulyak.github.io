@@ -56,4 +56,4 @@ categories: Interesting News
   группы The Grateful Dead, т. н. Deadhead (англ.). Он был на более чем 75 их концертах по 
  состоянию на начало апреля 1994 года.
  
-Взято с сайта: ***https://ru.wikipedia.org/wiki/Slackware***
+Взято с сайта: ***https://ru.wikipedia.org/wiki/Фолькердинг,_Патрик***

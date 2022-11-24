@@ -99,4 +99,4 @@ categories: Interesting News
 
 Владеет испанским языком, активно использует его в различных мероприятиях и лекциях.
 
-Взято с сайта: ***https://ru.wikipedia.org/wiki/Slackware***
+Взято с сайта: ***https://ru.wikipedia.org/wiki/Столлман,_Ричард_Мэттью***

@@ -22,4 +22,4 @@ categories: News Interesting
 
 На данный момент Брам работает в компании Google.
 
-Взято с сайта: ***https://ru.wikipedia.org/wiki/Slackware***
+Взято с сайта: ***https://ru.wikipedia.org/wiki/Моленар,_Брам***
