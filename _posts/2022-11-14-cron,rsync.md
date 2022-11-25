@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  cron
-category: Linux
+title:  cron and rsync
+category: Linux 
 ---
 
 #### *Есть много полезных консольных команд и приложений.Приведу здесь две пожалуй самые необходимые консольные программы:*
