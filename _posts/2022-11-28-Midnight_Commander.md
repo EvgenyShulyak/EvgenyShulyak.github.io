@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Midnight Commander 
+title:  Midnight Commander (mc)
 categories: News Linux
 ---
 
