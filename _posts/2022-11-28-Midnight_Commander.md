@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Midnight Commander (mc hotkey)
+title:  Midnight Commander 
 categories: News Linux
 ---
 
