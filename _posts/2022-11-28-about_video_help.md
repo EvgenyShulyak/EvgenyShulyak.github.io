@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  mount flash
-categories: 'Video help'
+categories: 'Video help' News
 ---
 
 Здесь я буду выкладывать ссылки на видео,которые помогли и помогают мне при работе и изучении 
