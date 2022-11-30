@@ -4,17 +4,6 @@ title: About
 permalink: /about/
 ---
 
-<style type="text/css">
-   a:link { text-decoration: none; }
-   a:visited { text-decoration: none; }
-   a:active { text-decoration: none; }
-   a:hover { 
-    font-size: 24px; /* Размер шрифта */
-    font-weight: bold; /* Жирное начертание */
-    color: red; /* Цвет ссылки */
-   }
-</style>
-
 
 This is a simple Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/).  Plus, you can find a lot of themes at [jekyllthemes.org](http://jekyllthemes.org/)
 
