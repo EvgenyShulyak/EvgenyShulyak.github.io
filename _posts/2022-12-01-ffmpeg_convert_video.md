@@ -33,4 +33,4 @@ categories: News Linux
 
 ***Еще пример конвертировать видео без каких-либо ограничений***:
 
-> ffmpeg -i video_origine.avi video_finale.mp4
+> ffmpeg -i video_original.avi video_finale.mp4
