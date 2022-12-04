@@ -41,5 +41,7 @@ cp -v /boot/vmlinuz-huge-5.16.15 /boot/efi/EFI/Slackware/
 ***2***:
 
 >cp -v /boot/initrd.gz /boot/efi/EFI/Slackware/
-cp -v /boot/vmlinuz-generic-5.16.15 /boot/efi/EFI/Slackware/
-cp -v /boot/vmlinuz-huge-5.16.15 /boot/efi/EFI/Slackware/
+> 
+>cp -v /boot/vmlinuz-generic-5.16.15 /boot/efi/EFI/Slackware/
+>
+>cp -v /boot/vmlinuz-huge-5.16.15 /boot/efi/EFI/Slackware/
