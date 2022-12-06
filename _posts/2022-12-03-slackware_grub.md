@@ -20,7 +20,9 @@ The key thing here is to reject the options to install Lilo or ELilo and drop ba
 
 ***For a non-UEFI system the grub install command is***:
 
-- grub-install --target=x86_64-efi /dev/sda #or whatever your drive is called
+- grub-install --target=x86_64-efi /dev/sda 
+
+*# or whatever your drive is called*
 
 ***For virtual box to boot on UEFI you also need to copy grub to a new directory***:
 
