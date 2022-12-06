@@ -14,7 +14,7 @@ The key thing here is to reject the options to install Lilo or ELilo and drop ba
 >
 >source /etc/profile
 >
->grub-install --target=x86_64-efi --efi-directory=/boot/efi --bootloader-id=grub
+>grub-install --target=x86_64-efi --efi-directory=/boot/efi --bootloader=id=grub
 >
 >grub-mkconfig -o /boot/grub/grub.cfg
 
