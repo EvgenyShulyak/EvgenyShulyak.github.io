@@ -26,7 +26,9 @@ The key thing here is to reject the options to install Lilo or ELilo and drop ba
 
 **option creates any intermediate directories**
 
-- mkdir -p /boot/efi/EFI/boot   
+- mkdir -p /boot/efi/EFI/boot 
+
+*# -p option creates any intermediate directories*
 
 - cp /boot/efi/EFI/grub/grubx64.efi /boot/efi/EFI/boot/bootx64.efi
 
