@@ -96,16 +96,6 @@ categories: News Slackware
 \# slackpkg update
 
 
-<style type="text/css">
-   a.red:link { text-decoration: none;}
-   A:visited { text-decoration: none; }
-   A:active { text-decoration: none; }
-   a.red:hover { 
-    font-size: 18px; /* Размер шрифта */
-    font-weight: bold; /* Жирное начертание */
-    color: blue; /* Цвет ссылки */
-   /* border: 2px solid black;*/ /* Красная рамка при наведении курсора на ссылку */
-   }
-</style>
+
 
 
