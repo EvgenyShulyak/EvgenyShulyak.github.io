@@ -81,9 +81,17 @@ categories: News Slackware
 
 - [0-9]+compat32
 
-Если релиз Slackware, до которого вы обновляетесь, содержит новые ядра, используйте команду  installpkg для установки их пакетов (не  upgradepkg , потому что иначе старое ядро будет удалено). Следует установить как минимум одно ядро (kernel-generic, kernel-generic-smp, kernel-huge, или kernel- huge-smp) и соответствующий пакет с модулями (kernel-modules или kernel- modules-smp). Не используйте ![](../image/update_slackware15/Aspose.Words.6633e120-06ef-4ec8-aa5e-782a4f4b353b.017.png)![](../image/update_slackware15/Aspose.Words.6633e120-06ef-4ec8-aa5e-782a4f4b353b.018.png) slackpkg для этого шага.![](../image/update_slackware15/Aspose.Words.6633e120-06ef-4ec8-aa5e-782a4f4b353b.019.png)
+ Если релиз **Slackware**, до которого вы обновляетесь, содержит новые ядра, используйте команду  
+  **installpkg** для установки их пакетов (**не  upgradepkg** , потому что иначе старое ядро будет 
+  удалено). Следует установить как минимум одно ядро (**kernel-generic, kernel-generic-smp, 
+  kernel-huge, или kernel- huge-smp**) и соответствующий пакет с модулями (**kernel-modules или 
+ kernel- modules-smp**). Не используйте **slackpkg для этого шага**                           .!
+ [](../image/update_slackware15/Aspose.Words.6633e120-06ef-4ec8-aa5e-782a4f4b353b.019.png)
 
-Теперь, когда у нас есть новое ядро плюс модули, можно обновлять всё остальное. Сперва обновим базу данных  slackpkg , содержащую сведения о пакетах:![](../image/update_slackware15/Aspose.Words.6633e120-06ef-4ec8-aa5e-782a4f4b353b.020.png)
+ Теперь, когда у нас есть новое ядро плюс модули, можно обновлять всё остальное. Сперва обновим 
+ базу данных  **slackpkg** , содержащую сведения о пакетах:                                      
+ ![](../image/update_slackware15/Aspose.Words.6633e120-06ef-4ec8-aa5e-782a4f4b353b.020.png)
 
 \# slackpkg update
+
 3/3
