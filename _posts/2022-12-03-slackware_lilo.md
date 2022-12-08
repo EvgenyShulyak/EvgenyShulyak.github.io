@@ -20,19 +20,23 @@ categories: News Slackware
  ошибку при запуске **Slackware**
  
  
- ***Чтобы такого не произошло, достаточно выполнить одну команду для сборки нового initrd. Нужно 
+***Чтобы такого не произошло, достаточно выполнить одну команду для сборки нового initrd. Нужно 
  перейти в папку /boot и выполнить команду. В моем случае она будет следующей***:
 
 >mkinitrd -c -k 5.13.4 -r /dev/sda2 -f ext4 -m ext4
+> 
 >OK: /lib/modules/5.13.4/kernel/fs/jbd2/jbd2.ko added.
-OK: /lib/modules/5.13.4/kernel/fs/mbcache.ko added.
-OK: /lib/modules/5.13.4/kernel/fs/ext4/ext4.ko added.
+> 
+>OK: /lib/modules/5.13.4/kernel/fs/mbcache.ko added.
+>
+>OK: /lib/modules/5.13.4/kernel/fs/ext4/ext4.ko added.
 56144 blocks
-/boot/initrd.gz created.
+>
+>boot/initrd.gz created.
 
->Be sure to run lilo again if you use it.
+***Be sure to run lilo again if you use it***.
 
- С учетом того, что у меня **Slackware** установлен на **/dev/sda1** и используется в качестве 
+ С учетом того, что у меня **Slackware** установлен на **/dev/sda2** и используется в качестве 
  файловой 
   системы **ext4**. У вас параметры могут отличатся. Данная команда соберет новый **initrd** и 
  можно 

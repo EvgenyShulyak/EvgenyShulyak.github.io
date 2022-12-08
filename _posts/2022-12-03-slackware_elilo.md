@@ -26,8 +26,10 @@ categories: News Slackware
 ***например такие команды***:
 
 >cp -v /boot/initrd.gz /boot/efi/EFI/Slackware/
-cp -v /boot/vmlinuz-generic-5.16.15 /boot/efi/EFI/Slackware/
-cp -v /boot/vmlinuz-huge-5.16.15 /boot/efi/EFI/Slackware/
+> 
+>cp -v /boot/vmlinuz-generic-5.16.15 /boot/efi/EFI/Slackware/
+>
+>cp -v /boot/vmlinuz-huge-5.16.15 /boot/efi/EFI/Slackware/
 
 Ядро **huge** вроде как не обязательно было копировать, но для надежности я перенес все.
 
@@ -37,6 +39,12 @@ cp -v /boot/vmlinuz-huge-5.16.15 /boot/efi/EFI/Slackware/
 ***1***:
 
 >mkinitrd -c -k 5.13.4 -r /dev/sda2 -f ext4 -m ext4
+> 
+> or:
+> 
+> /usr/share/mkinitrd/mkinitrd_command_generator.sh -k 5.13.4
+>
+>lilo
 
 ***2***:
 
