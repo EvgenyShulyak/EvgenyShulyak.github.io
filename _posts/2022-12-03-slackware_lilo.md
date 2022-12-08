@@ -4,8 +4,6 @@ title:  Обновление ядра в Slackware lilo
 categories: News Slackware
 ---
 
-***Взято: 27.07.2021 https://slackware-alive.ru/slackware-kernel-upgrade/***
-
  Обновление ядра в **Slackware** проходит автоматически при выполнении команды **slackpkg 
  upgrade-all** 
   и ядро по умолчанию даже не добавлено в blacklist пакетного менеджера. Что может доставить 
@@ -95,3 +93,5 @@ ROOTFS="ext4"
 >/usr/share/mkinitrd/mkinitrd_command_generator.sh -k 5.13.4
 >
 >lilo
+
+***Взято: 27.07.2021 https://slackware-alive.ru/slackware-kernel-upgrade/***
