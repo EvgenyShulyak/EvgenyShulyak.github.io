@@ -9,7 +9,7 @@ categories: News Slackware
  ![](../image/update_slackware15/Aspose.Words.6633e120-06ef-4ec8-aa5e-782a4f4b353b.002.png)[` `**docs.slackware.
  com**/ru:howtos:slackware_admin:systemupgrade](https://docs.slackware.com/ru:howtos:slackware_admin:systemupgrade)
 
-Enjoy Slackware 15.0!
+***Enjoy Slackware 15.0!***
 
 **Обновление или установка с нуля![](../image/update_slackware15/Aspose.Words.6633e120-06ef-4ec8-aa5e-782a4f4b353b.
  003.png)**
@@ -26,9 +26,18 @@ Enjoy Slackware 15.0!
   позаботиться, прежде чем пускаться во все тяжкие. Для начала, запомните одну вещь:![](..
  /image/update_slackware15/Aspose.Words.6633e120-06ef-4ec8-aa5e-782a4f4b353b.009.png)
 
-Никогда не обновляйте ваше рабочее ядро!
+### Никогда не обновляйте ваше рабочее ядро!
 
-Почему? Да потому что вы обновляете хренову тучу пакетов, и должны быть готовы, что с некоторой, пусть и незначительной долей вероятности ваш компьютер после перезагрузки превратится в тыкву. Согласитесь, не очень-то хотелось бы получить систему, которая не просто не работает как следует, а даже не загружается. Новая версия Slackware может содержать ядро, которое попросту откажется работать на вашей машине (опять же, вероятность невелика, но тем не менее). Поэтому вы должны сохранить заведомо рабочее ядро и выделить ему отдельную секцию в файле  /etc/lilo.conf . Таким образом, если новое ядро начнёт выпендриваться,![](../image/update_slackware15/Aspose.Words.6633e120-06ef-4ec8-aa5e-782a4f4b353b.010.png)
+ **Почему?** Да потому что вы обновляете хренову тучу пакетов, и должны быть готовы, что с 
+ некоторой, пусть и 
+  незначительной долей вероятности ваш компьютер после перезагрузки превратится в тыкву. 
+ Согласитесь, не очень-то 
+  хотелось бы получить систему, которая не просто не работает как следует, а даже не загружается.
+ Новая версия 
+ **Slackware** может содержать ядро, которое попросту откажется работать на вашей машине (опять же, 
+  вероятность невелика, но тем не менее). Поэтому вы должны сохранить заведомо рабочее ядро и 
+  выделить ему отдельную секцию в файле  **/etc/lilo.conf** . Таким образом, если новое ядро начнёт 
+ выпендриваться,![](../image/update_slackware15/Aspose.Words.6633e120-06ef-4ec8-aa5e-782a4f4b353b.010.png)
 
 вы всегда сможете воспользоваться старым, дабы загрузиться и выяснить, что же пошло не так. Собственно, это те же самые предосторожности, которые следует соблюдать при [собственноручной сборке ядра](https://docs.slackware.com/ru:howtos:slackware_admin:kernelbuilding).
 
@@ -50,13 +59,27 @@ Enjoy Slackware 15.0!
 
 [Внесите в чёрный список](https://docs.slackware.com/ru:slackware:slackpkg#%D1%87%D1%91%D1%80%D0%BD%D1%8B%D0%B9_%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA) ( /etc/slackpkg/blacklist ) следующие ядерные пакеты:![](../image/update_slackware15/Aspose.Words.6633e120-06ef-4ec8-aa5e-782a4f4b353b.016.png)
 
-kernel-generic kernel-generic-smp kernel-huge kernel-huge-smp kernel-modules kernel-modules-smp
+- kernel-generic
+
+- kernel-generic-smp
+
+- kernel-huge
+
+- kernel-huge-smp
+
+- kernel-modules
+
+- kernel-modules-smp
 
 Это предотвратит случайное обновление рабочего ядра.
 
 Внесите в чёрныф список пакеты из сторонних репозитариев путём добавления их *меток*. Пример для SlackBuilds.org, AlienBOB и Multilib:
 
-[0-9]+\_SBo [0-9]+alien [0-9]+compat32
+- [0-9]+\_SBo
+
+- [0-9]+alien
+
+- [0-9]+compat32
 
 Если релиз Slackware, до которого вы обновляетесь, содержит новые ядра, используйте команду  installpkg для установки их пакетов (не  upgradepkg , потому что иначе старое ядро будет удалено). Следует установить как минимум одно ядро (kernel-generic, kernel-generic-smp, kernel-huge, или kernel- huge-smp) и соответствующий пакет с модулями (kernel-modules или kernel- modules-smp). Не используйте ![](../image/update_slackware15/Aspose.Words.6633e120-06ef-4ec8-aa5e-782a4f4b353b.017.png)![](../image/update_slackware15/Aspose.Words.6633e120-06ef-4ec8-aa5e-782a4f4b353b.018.png) slackpkg для этого шага.![](../image/update_slackware15/Aspose.Words.6633e120-06ef-4ec8-aa5e-782a4f4b353b.019.png)
 
