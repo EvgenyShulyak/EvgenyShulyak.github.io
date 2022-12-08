@@ -1,6 +1,6 @@
 ﻿---
 layout: post
-title:  pkgtool
+title:  Update Slackware 15
 categories: News Slackware
 ---
 
