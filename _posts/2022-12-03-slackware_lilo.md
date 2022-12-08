@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Обновление ядра в Slackware lilo
-categories: News Linux
+categories: News Slackware
 ---
 
 ***Взято: 27.07.2021 https://slackware-alive.ru/slackware-kernel-upgrade/***
