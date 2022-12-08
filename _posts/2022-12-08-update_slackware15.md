@@ -73,7 +73,8 @@ categories: News Slackware
 
 Это предотвратит случайное обновление рабочего ядра.
 
-Внесите в чёрныф список пакеты из сторонних репозитариев путём добавления их *меток*. Пример для SlackBuilds.org, AlienBOB и Multilib:
+ Внесите в чёрныф список пакеты из сторонних репозитариев путём добавления их *меток*. Пример 
+ для SlackBuilds.org, AlienBOB и Multilib:
 
 - [0-9]+\_SBo
 
@@ -85,8 +86,8 @@ categories: News Slackware
   **installpkg** для установки их пакетов (**не  upgradepkg** , потому что иначе старое ядро будет 
   удалено). Следует установить как минимум одно ядро (**kernel-generic, kernel-generic-smp, 
   kernel-huge, или kernel- huge-smp**) и соответствующий пакет с модулями (**kernel-modules или 
- kernel- modules-smp**). Не используйте **slackpkg для этого шага**                           .!
- [](../image/update_slackware15/Aspose.Words.6633e120-06ef-4ec8-aa5e-782a4f4b353b.019.png)
+ kernel- modules-smp**). Не используйте **slackpkg для этого шага**.                             
+ ![](../image/update_slackware15/Aspose.Words.6633e120-06ef-4ec8-aa5e-782a4f4b353b.019.png)
 
  Теперь, когда у нас есть новое ядро плюс модули, можно обновлять всё остальное. Сперва обновим 
  базу данных  **slackpkg** , содержащую сведения о пакетах:                                      
@@ -94,4 +95,4 @@ categories: News Slackware
 
 \# slackpkg update
 
-3/3
+
