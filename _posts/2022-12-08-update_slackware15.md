@@ -6,11 +6,13 @@ categories: News Slackware
 
 **Обновление Slackware до новой версии![](../image/update_slackware15/Aspose.Words.6633e120-06ef-4ec8-aa5e-782a4f4b353b.001.png)**
 
-![](../image/update_slackware15/Aspose.Words.6633e120-06ef-4ec8-aa5e-782a4f4b353b.002.png)[` `**docs.slackware.com**/ru:howtos:slackware_admin:systemupgrade](https://docs.slackware.com/ru:howtos:slackware_admin:systemupgrade)
+ ![](../image/update_slackware15/Aspose.Words.6633e120-06ef-4ec8-aa5e-782a4f4b353b.002.png)[` `**docs.slackware.
+ com**/ru:howtos:slackware_admin:systemupgrade](https://docs.slackware.com/ru:howtos:slackware_admin:systemupgrade)
 
 Enjoy Slackware 15.0!
 
-**Обновление или установка с нуля![](../image/update_slackware15/Aspose.Words.6633e120-06ef-4ec8-aa5e-782a4f4b353b.003.png)**
+**Обновление или установка с нуля![](../image/update_slackware15/Aspose.Words.6633e120-06ef-4ec8-aa5e-782a4f4b353b.
+ 003.png)**
 
 Установка Slackware с чистого листа всегда предпочтительнее, если вы пользуетесь довольно старой версией дистрибутива и хотите пропустить несколько релизов. Слишком много внутренних изменений могло произойти за прошедшее время, так что попытка обновления скорее всего обернётся крайне болезненной процедурой, отнюдь не гарантирующей успеха. В подобных случаях рекомендуется сохранить список установленных пакетов ( ls -lart /var/log/packages ), создать резервную![](../image/update_slackware15/Aspose.Words.6633e120-06ef-4ec8-aa5e-782a4f4b353b.004.png)
 
@@ -20,7 +22,9 @@ Enjoy Slackware 15.0!
 
 **Соображения насчёт ядра![](../image/update_slackware15/Aspose.Words.6633e120-06ef-4ec8-aa5e-782a4f4b353b.008.png)**
 
-Просто запустить  slackpkg в надежде на внезапный успех - не самый разумный вариант. Есть вещи, о которых следует позаботиться, прежде чем пускаться во все тяжкие. Для начала, запомните одну вещь:![](../image/update_slackware15/Aspose.Words.6633e120-06ef-4ec8-aa5e-782a4f4b353b.009.png)
+ Просто запустить  slackpkg в надежде на внезапный успех - не самый разумный вариант. Есть вещи, о которых следует 
+  позаботиться, прежде чем пускаться во все тяжкие. Для начала, запомните одну вещь:![](..
+ /image/update_slackware15/Aspose.Words.6633e120-06ef-4ec8-aa5e-782a4f4b353b.009.png)
 
 Никогда не обновляйте ваше рабочее ядро!
 
