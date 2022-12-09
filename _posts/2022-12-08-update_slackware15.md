@@ -6,7 +6,8 @@ categories: News Slackware
 
 **Обновление Slackware до новой версии![](/image/update_slackware15/Aspose.Words.6633e120-06ef-4ec8-aa5e-782a4f4b353b.001.png)**
 
- ![](/image/update_slackware15/Aspose.Words.6633e120-06ef-4ec8-aa5e-782a4f4b353b.002.png)[` `**docs.slackware.
+ ![](/image/update_slackware15/Aspose.Words.6633e120-06ef-4ec8-aa5e-782a4f4b353b.002.png)[` 
+ `**docs.slackware.
  com**/ru:howtos:slackware_admin:systemupgrade](https://docs.slackware.com/ru:howtos:slackware_admin:systemupgrade)
 
 ***Enjoy Slackware 15.0!***
