@@ -4,9 +4,9 @@ title:  Update Slackware 15
 categories: News Slackware
 ---
 
-**Обновление Slackware до новой версии![](../image/update_slackware15/Aspose.Words.6633e120-06ef-4ec8-aa5e-782a4f4b353b.001.png)**
+**Обновление Slackware до новой версии![](/image/update_slackware15/Aspose.Words.6633e120-06ef-4ec8-aa5e-782a4f4b353b.001.png)**
 
- ![](../image/update_slackware15/Aspose.Words.6633e120-06ef-4ec8-aa5e-782a4f4b353b.002.png)[` `**docs.slackware.
+ ![](/image/update_slackware15/Aspose.Words.6633e120-06ef-4ec8-aa5e-782a4f4b353b.002.png)[` `**docs.slackware.
  com**/ru:howtos:slackware_admin:systemupgrade](https://docs.slackware.com/ru:howtos:slackware_admin:systemupgrade)
 
 ***Enjoy Slackware 15.0!***
@@ -20,7 +20,7 @@ categories: News Slackware
 
 Если же вы собираетесь обновиться до *следующей* версии, можно сделать это вручную, следуя инструкциям в файле  UPGRADE. TXT , который находится в корне дистрибутивного DVD, либо первого CD. Более подробные указания и полезные советы вы можете найти в файле ![](../image/update_slackware15/Aspose.Words.6633e120-06ef-4ec8-aa5e-782a4f4b353b.006.png) CHANGES\_AND\_HI NTS. TXT , находящемся там же. Кроме того, процесс можно автоматизировать с помощью ![](../image/update_slackware15/Aspose.Words.6633e120-06ef-4ec8-aa5e-782a4f4b353b.007.png)[slackpkg](https://docs.slackware.com/ru:slackware:slackpkg), это избавит вас от значительной части рутинной работы. Я *всегда* использую slackpkg (с осторожностью) при обновлении своих систем от одной стабильной версии к другой. Та же самая процедура может быть применена для перехода к slackware- current, поддержки slackware-current в актуальном состоянии, или для превращения slackware-не-очень-current в последний стабильный релиз.
 
-**Соображения насчёт ядра![](../image/update_slackware15/Aspose.Words.6633e120-06ef-4ec8-aa5e-782a4f4b353b.008.png)**
+**Соображения насчёт ядра![](/image/update_slackware15/Aspose.Words.6633e120-06ef-4ec8-aa5e-782a4f4b353b.008.png)**
 
  Просто запустить  slackpkg в надежде на внезапный успех - не самый разумный вариант. Есть вещи, о которых следует 
   позаботиться, прежде чем пускаться во все тяжкие. Для начала, запомните одну вещь:![](..
@@ -37,23 +37,23 @@ categories: News Slackware
  **Slackware** может содержать ядро, которое попросту откажется работать на вашей машине (опять же, 
   вероятность невелика, но тем не менее). Поэтому вы должны сохранить заведомо рабочее ядро и 
   выделить ему отдельную секцию в файле  **/etc/lilo.conf** . Таким образом, если новое ядро начнёт 
- выпендриваться,![](../image/update_slackware15/Aspose.Words.6633e120-06ef-4ec8-aa5e-782a4f4b353b.010.png)
+ выпендриваться,![](/image/update_slackware15/Aspose.Words.6633e120-06ef-4ec8-aa5e-782a4f4b353b.010.png)
 
 вы всегда сможете воспользоваться старым, дабы загрузиться и выяснить, что же пошло не так. Собственно, это те же самые предосторожности, которые следует соблюдать при [собственноручной сборке ядра](https://docs.slackware.com/ru:howtos:slackware_admin:kernelbuilding).
 
-**По поводу видеодрайверов![](../image/update_slackware15/Aspose.Words.6633e120-06ef-4ec8-aa5e-782a4f4b353b.011.png)**
+**По поводу видеодрайверов![](/image/update_slackware15/Aspose.Words.6633e120-06ef-4ec8-aa5e-782a4f4b353b.011.png)**
 
 Если ваш компьютер оборудован видеокартой от [Nvidia](http://www.nvidia.com/object/unix.html) или [ATI](http://www2.ati.com/drivers/linux/installernotes.html) и у вас установлены фирменные драйвера (проприетарные блобы), не пытайтесь запускать иксы сразу после обновления системы. Эти драйвера завязаны на версию ядра, Mesa и X- сервера (кроме того, пакеты mesa и xorg-server гарантированно перезапишут некоторые файлы, принадлежащие драйверам), так что перед запуском графического режима их придётся переустановить.
 
 Если хотите подробностей, у нас есть [соответствующая статья](https://docs.slackware.com/ru:howtos:hardware:proprietary_graphics_drivers).
 
-**Slackpkg и все-все-все![](../image/update_slackware15/Aspose.Words.6633e120-06ef-4ec8-aa5e-782a4f4b353b.012.png)**
+**Slackpkg и все-все-все![](/image/update_slackware15/Aspose.Words.6633e120-06ef-4ec8-aa5e-782a4f4b353b.012.png)**
 
 Раз уж вы решили обновлять Slackware, то в первую же очередь обновите slackpkg. Команда  upgradepkg установит файл  /etc/slackpkg/mirrors.new - это список зеркал, на которых хранится в том числе и новый релиз Slackware. Сравните его с оригиналом и перенесите свои изменения, если необходимо.![](../image/update_slackware15/Aspose.Words.6633e120-06ef-4ec8-aa5e-782a4f4b353b.013.png)![](../image/update_slackware15/Aspose.Words.6633e120-06ef-4ec8-aa5e-782a4f4b353b.014.png)
 
 *Убедитесь, что раскомментирована строго **одна строка**, указывающая на необходимую версию и архитектуру.*
 
-**Обновление системы с помощью slackpkg![](../image/update_slackware15/Aspose.Words.6633e120-06ef-4ec8-aa5e-782a4f4b353b.015.png)**
+**Обновление системы с помощью slackpkg![](/image/update_slackware15/Aspose.Words.6633e120-06ef-4ec8-aa5e-782a4f4b353b.015.png)**
 
 Следующие шаги должны сработать в любом случае:
 
@@ -87,11 +87,11 @@ categories: News Slackware
   удалено). Следует установить как минимум одно ядро (**kernel-generic, kernel-generic-smp, 
   kernel-huge, или kernel- huge-smp**) и соответствующий пакет с модулями (**kernel-modules или 
  kernel- modules-smp**). Не используйте **slackpkg для этого шага**.                             
- ![](../image/update_slackware15/Aspose.Words.6633e120-06ef-4ec8-aa5e-782a4f4b353b.019.png)
+ ![](/image/update_slackware15/Aspose.Words.6633e120-06ef-4ec8-aa5e-782a4f4b353b.019.png)
 
  Теперь, когда у нас есть новое ядро плюс модули, можно обновлять всё остальное. Сперва обновим 
  базу данных  **slackpkg** , содержащую сведения о пакетах:                                      
- ![](../image/update_slackware15/Aspose.Words.6633e120-06ef-4ec8-aa5e-782a4f4b353b.020.png)
+ ![](/image/update_slackware15/Aspose.Words.6633e120-06ef-4ec8-aa5e-782a4f4b353b.020.png)
 
 \# slackpkg update
 
