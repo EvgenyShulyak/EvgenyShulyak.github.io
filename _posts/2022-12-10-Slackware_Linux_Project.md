@@ -7,11 +7,11 @@ categories: News Linux
 **Проект Slackware Linux: справка по настройке![](/image/project/Aspose.Words.c2a4e8f6-d8c0-404d-85b5-30a5bd0e1b70.001.png)**
 
 
-![](/image/project/Aspose.Words.c2a4e8f6-d8c0-404d-85b5-30a5bd0e1b70.002.png)[` `**slackware.com**/config/packages.php](http://www.slackware.com/config/packages.php)![](Aspose.Words.c2a4e8f6-d8c0-404d-85b5-30a5bd0e1b70.003.png)![](Aspose.Words.c2a4e8f6-d8c0-404d-85b5-30a5bd0e1b70.004.png)
+![](/image/project/Aspose.Words.c2a4e8f6-d8c0-404d-85b5-30a5bd0e1b70.002.png)[` `**slackware.com**/config/packages.php](http://www.slackware.com/config/packages.php)
 
 ![](/image/project/Aspose.Words.c2a4e8f6-d8c0-404d-85b5-30a5bd0e1b70.005.png)
 
-Система упаковки Slackware использует обычные сжатые файлы tar. Система позволяет отслеживать устанавливаемые пакеты, что упрощает их обновление или удаление в будущем.![](Aspose.Words.c2a4e8f6-d8c0-404d-85b5-30a5bd0e1b70.006.png)
+Система упаковки Slackware использует обычные сжатые файлы tar. Система позволяет отслеживать устанавливаемые пакеты, что упрощает их обновление или удаление в будущем.
 
  Slackware предоставляет интерактивную программу для управления вашими пакетами. Вы можете 
  использовать **pkgtool** для обработки добавления и удаления пакетов из вашей системы.
