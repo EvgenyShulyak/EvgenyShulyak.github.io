@@ -92,3 +92,5 @@ category: Linux
 > user ALL = NOPASSWD: /home/user/Documents/script.sh
 
 **Для восстановления поменять каталоги местами (приемник-источник).**
+
+**jenit**
