@@ -12,9 +12,8 @@ categories: Interesting News
  В 1993 году получил степень бакалавра компьютерных наук университета Minnesota State University 
  Moorhead (англ.).
 
-><a class="blu" href="https://disk.yandex.ru/i/IL8lvUR05kj1Tw" target="_blank" >***Patrick Volkerding***</a> - 
->***"Фото-ссылка"***
->
+![](/image/my_image/patrick_volkerdin.jpg)
+
 >Патрик Фолькердинг на конференции LinuxWorld (англ.) 2000 в Нью-Йорке
 
 - Дата рождения	20 октября 1966 (56 лет)
