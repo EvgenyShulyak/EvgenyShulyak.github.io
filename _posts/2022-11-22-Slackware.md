@@ -4,6 +4,7 @@ title: Slackware
 categories: News Interesting
 ---
 
+![](/image/my_image/slackware15.png)
 
 **Slackware Linux** ([ˈslækweə(ɹ)]; в просторечии — ***«слака», «слакварь»***) — один из первых 
 дистрибутивов Linux.
