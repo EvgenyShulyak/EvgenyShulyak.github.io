@@ -36,3 +36,9 @@ excerpt_separator: <!--description-->
   - jekyll-paginate
   - jekyll-sitemap
 # paginate: 4
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-paginate
