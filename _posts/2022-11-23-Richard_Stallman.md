@@ -4,6 +4,8 @@ title: Ричард Столлман
 categories: Interesting News
 ---
 
+![](/image/my_image/Richard_Stallman.jpg)
+
 **Ричард Мэттью Столлман** (англ. ***Richard Matthew Stallman***; род. 16 марта 1953, Манхэттен, 
 Нью-Йорк)
   , также упоминаемый как rms, — основатель движения свободного программного обеспечения, 
