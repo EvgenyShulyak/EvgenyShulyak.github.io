@@ -3,9 +3,8 @@ layout: post
 title: Bram Moolenaar
 categories: News Interesting
 ---
+![](/image/my_image/Bram_Moolenaar_in_2007.jpg)
 
-><a class="blu" href="https://disk.yandex.ru/i/BCmNQNXJFRyqQQ" target="_blank" >***Bram Moolenaar***</a> - 
->***"ссылка на фото"***
 
 **Брам Моленар** (***нидерл. Bram Moolenaar; род. 1961, Нидерланды***) — активный член 
 сообщества Open Source. Наиболее известен как автор многофункционального текстового редактора **Vim**, ставшего стандартным во всех Unix-подобных системах. Также Брам является основателем Фонда ICCF Holland foundation, благотворительной организации, проводящей проект помощи детям из Уганды. и автором языка программирования **Zimbu**.
