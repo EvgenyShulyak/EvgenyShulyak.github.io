@@ -33,7 +33,7 @@ categories: Interesting News
 
 Из авторских программ можно отметить GNU Emacs.
 
-![](/image/my_image/emacs.png)
+![](/image/my_image/emacs.jpg)
 
 Коллекция компиляторов GNU (GCC) и Отладчик GNU (GDB).
 
