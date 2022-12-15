@@ -44,5 +44,5 @@ https://www.youtube.com/@YuriyLebedev/featured
 ><a class="red" href="https://disk.yandex.ru/i/f1v7zokaFAs3WQ" target="_blank" >***Slackware Linux - выбор оконного менеджера*** </a> -
 >***"ссылка на видео"***
 
-> ><a class="red" href="https://disk.yandex.ru/i/8tHNlaxgyX0Glw" target="_blank" >***Slackware Linux - выбор демонов для загрузки*** </a> -
+><a class="red" href="https://disk.yandex.ru/i/8tHNlaxgyX0Glw" target="_blank" >***Slackware Linux - выбор демонов для загрузки*** </a> -
 >***"ссылка на видео"***
