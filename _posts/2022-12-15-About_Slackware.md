@@ -39,7 +39,7 @@ P.S. Информация к размышлению:
 *Это видео относится к Slackware 14.2,но актуально и в Slackware 15,current версиях*.
 
 **Еще несколько видео прошлых лет,но все работает и в данный момент.Взято с канала Юрия Лебедева**:
-https://www.youtube.com/@YuriyLebedev/featured
+*https://www.youtube.com/@YuriyLebedev/featured*
 
 ><a class="red" href="https://disk.yandex.ru/i/f1v7zokaFAs3WQ" target="_blank" >***Slackware Linux - выбор оконного менеджера*** </a> -
 >***"ссылка на видео"***
