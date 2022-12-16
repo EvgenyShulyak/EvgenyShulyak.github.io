@@ -84,5 +84,17 @@ org-mode in Emacs
 ><a class="red" href="https://disk.yandex.ru/i/0rLAF0sSgKrgTQ" target="_blank" >***Базовые возможности Org-mode*** </a> -
 >***"ссылка на видео"***
 
+#### Мое видео
+
+*Wordpress в Slackware 14.2(но уверен будет работать и в новых версиях)*
+
+><a class="red" href="https://disk.yandex.ru/i/zbnQ2Vv9Bl1ZFg" target="_blank" >***slackware xampp wordpress*** </a> -
+>***"ссылка на видео"***
+
+*Yandex browser в Slackware 15*
+
+><a class="red" href="https://disk.yandex.ru/i/zY7wfofRQpGj2g" target="_blank" >***slackware15_Yandex browser*** </a> - 
+>***"ссылка на видео"***
+
 
 
