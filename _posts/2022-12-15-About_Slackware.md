@@ -67,4 +67,12 @@ P.S. Информация к размышлению:
 
 *Ролик org-mode взят с канала*: https://www.youtube.com/watch?v=lpPS6JPUUME&t=590s
 
+*Emacs;org-mode*
+
+><a class="red" href="https://disk.yandex.ru/i/YF_rfJKJq6jS0g" target="_blank" >***Emacs*** </a> -
+>***"ссылка на видео"*** 
+
+![](/image/my_image/org_emacs.jpg) 
+
+
 
