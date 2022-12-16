@@ -46,3 +46,18 @@ P.S. Информация к размышлению:
 
 ><a class="red" href="https://disk.yandex.ru/i/8tHNlaxgyX0Glw" target="_blank" >***Slackware Linux - выбор демонов для загрузки*** </a> -
 >***"ссылка на видео"***
+
+><a class="red" href="https://disk.yandex.ru/i/9Ms5HS0k9b26hw" target="_blank" >***Поиск файлов в Slackware Linux*** </a> -
+>***"ссылка на видео"***
+
+><a class="red" href="https://disk.yandex.ru/i/q7NLxBcON6NvFQ" target="_blank" >***Slackware Linux - смена шрифта консоли*** </a> -
+>***"ссылка на видео"***
+
+><a class="red" href="https://disk.yandex.ru/i/1_fuzg7ERy2_9A" target="_blank" >***Управление модулями ядра в Slackware Linux*** </a> -
+>***"ссылка на видео"***
+
+><a class="red" href="https://disk.yandex.ru/i/wIkYpoRQ0boXDQ" target="_blank" >***Slackware Linux - смена часового пояса*** </a> -
+>***"ссылка на видео"***
+
+><a class="red" href="https://disk.yandex.ru/i/GHSTVDzhxRXe4A" target="_blank" >***Slackware Linux - настройка IP-адреса*** </a> -
+>***"ссылка на видео"*** 
