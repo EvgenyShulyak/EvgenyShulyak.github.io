@@ -73,7 +73,7 @@ P.S. Информация к размышлению:
 >***[ссылка на канал Дмитрия Бушенко](https://www.youtube.com/watch?v=lpPS6JPUUME&t=590s/ 
 > "org-mode")***
 
-***Emacs;org-mode***
+***Emacs; org-mode***
 
 ><a class="red" href="https://disk.yandex.ru/i/YF_rfJKJq6jS0g" target="_blank" >***Emacs*** </a> -
 >***"ссылка на видео"*** 
