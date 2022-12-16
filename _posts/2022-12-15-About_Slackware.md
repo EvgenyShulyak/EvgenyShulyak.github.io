@@ -65,9 +65,11 @@ P.S. Информация к размышлению:
 **Еще хочу показать пару видео о установке программ в Slackware 14.2;15 и ролики о Emacs и 
 расширении в Emacs**: ***org-mode(это такой шикарный организатор всего в Линукс)***.
 
-*Ролик org-mode взят с канала*: https://www.youtube.com/watch?v=lpPS6JPUUME&t=590s
+*Ролик org-mode взят с канала*:
 
-*Emacs;org-mode*
+>https://www.youtube.com/watch?v=lpPS6JPUUME&t=590s
+
+***Emacs;org-mode***
 
 ><a class="red" href="https://disk.yandex.ru/i/YF_rfJKJq6jS0g" target="_blank" >***Emacs*** </a> -
 >***"ссылка на видео"*** 
