@@ -75,6 +75,7 @@ P.S. Информация к размышлению:
 >***"ссылка на видео"*** 
 
 ![](/image/my_image/org_emacs.jpg) 
+org-mode in Emacs
 
 
 
