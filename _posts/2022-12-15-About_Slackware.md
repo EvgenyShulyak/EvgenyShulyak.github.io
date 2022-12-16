@@ -39,7 +39,8 @@ P.S. Информация к размышлению:
 *Это видео относится к Slackware 14.2,но актуально и в Slackware 15,current версиях*.
 
 **Еще несколько видео прошлых лет,но все работает и в данный момент.Взято с канала Юрия Лебедева**:
-*https://www.youtube.com/@YuriyLebedev/featured*
+
+*[ссылка на канал](https://www.youtube.com/@YuriyLebedev/featured)*
 
 ><a class="red" href="https://disk.yandex.ru/i/f1v7zokaFAs3WQ" target="_blank" >***Slackware Linux - выбор оконного менеджера*** </a> -
 >***"ссылка на видео"***
@@ -67,7 +68,7 @@ P.S. Информация к размышлению:
 
 *Ролик org-mode взят с канала*:
 
->[ссылка на канал](https://www.youtube.com/watch?v=lpPS6JPUUME&t=590s/"org-mode")
+>*[ссылка на канал](https://www.youtube.com/watch?v=lpPS6JPUUME&t=590s "org-mode")*
 
 ***Emacs;org-mode***
 
