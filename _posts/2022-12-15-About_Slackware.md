@@ -81,5 +81,8 @@ P.S. Информация к размышлению:
 ![](/image/my_image/org_emacs.jpg) 
 org-mode in Emacs
 
+><a class="red" href="https://disk.yandex.ru/i/0rLAF0sSgKrgTQ" target="_blank" >***Базовые возможности Org-mode*** </a> -
+>***"ссылка на видео"***
+
 
 
