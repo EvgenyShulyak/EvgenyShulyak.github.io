@@ -111,7 +111,7 @@ P.S. Информация к размышлению:
 
 Теперь позволю себе выложить видео с Английского канала:
 
->***[OldTechBloke](https://www.youtube.com/watch?v=TyCR6Bh5yjs&list=PLIXhUtjbeUQvELTtKaJ2q360uWUNKaKU8)*** - (*ссылка на канал*)
+>***[OldTechBloke](https://www.youtube.com/watch?v=TyCR6Bh5yjs&list=PLIXhUtjbeUQvELTtKaJ2q360uWUNKaKU8)*** - ***"ссылка на канал"***
 
 ![](/image/for_video/Slackware_15_is_Released.png)
 ><a class="red" href="https://disk.yandex.ru/i/cDrAc7hqn8Jovw" target="_blank" >***Выпущен Slackware 15! Дистрибутив, Который Вам действительно стоит попробовать, Потому что Вы того стоите!*** </a> - 
@@ -149,7 +149,7 @@ P.S. Информация к размышлению:
 
 - Оригинал:
 
-https://www.youtube.com/watch?v=0yoP9xnh4jI&list=PLIXhUtjbeUQvELTtKaJ2q360uWUNKaKU8&index=10
+[https://www.youtube.com/watch?v=0yoP9xnh4jI&list=PLIXhUtjbeUQvELTtKaJ2q360uWUNKaKU8&index=10]()
 
 *В видео сделан Русский перевод с помощью Яндекс браузера*.
 
