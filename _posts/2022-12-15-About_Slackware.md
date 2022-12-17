@@ -93,7 +93,7 @@ org-mode in Emacs
 
 Прикрепляю на всякий случай файл конфигурации базы данных:
 
->***[Файл базы данных](https://disk.yandex.ru/d/yxyqxD84O4CMNQ/"сам_файл")***
+>***[Файл базы данных](https://disk.yandex.ru/d/yxyqxD84O4CMNQ/ "сам_файл")***
 
 *Yandex browser в Slackware 15*
 
