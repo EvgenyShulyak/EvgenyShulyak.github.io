@@ -45,7 +45,7 @@ P.S. Информация к размышлению:
 
 >***[ссылка на канал Юрия Лебедева](https://www.youtube.com/@YuriyLebedev/search?query=slackware/ 
 > "сам канал")***
- 
+
 
 ><a class="red" href="https://disk.yandex.ru/i/f1v7zokaFAs3WQ" target="_blank" >***Slackware Linux - выбор оконного менеджера*** </a> -
 >***"ссылка на видео"***
