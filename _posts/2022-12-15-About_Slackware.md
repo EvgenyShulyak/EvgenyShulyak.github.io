@@ -78,6 +78,7 @@ P.S. Информация к размышлению:
 
 ***Emacs; org-mode***
 
+![](/image/for_video/emacs.png)
 ><a class="red" href="https://disk.yandex.ru/i/YF_rfJKJq6jS0g" target="_blank" >***Emacs*** </a> -
 >***"ссылка на видео"*** 
 
