@@ -93,6 +93,7 @@ org-mode in Emacs
 
 *Wordpress в Slackware 14.2(но уверен будет работать и в новых версиях)*
 
+![](/image/for_video/wordpress.png)
 ><a class="red" href="https://disk.yandex.ru/i/zbnQ2Vv9Bl1ZFg" target="_blank" >***slackware xampp wordpress*** </a> -
 >***"ссылка на видео"***
 
