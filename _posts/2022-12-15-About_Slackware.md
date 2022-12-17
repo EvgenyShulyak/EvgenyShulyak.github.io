@@ -23,6 +23,7 @@ P.S. Информация к размышлению:
 > target="_blank" >***Установка программ из архивов.Slackbuilds*** </a> -
 >***"ссылка на видео"***
 
+![](/image/for_video/slackbuilds_inxi.png)
 ><a class="red" href="https://disk.yandex.ru/i/okghQ32tEv70CA" target="_blank" >***Установка 
 > программы inxi в Slackware 14.2*** </a> -
 >***"ссылка на видео"***
