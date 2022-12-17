@@ -20,9 +20,7 @@ P.S. Информация к размышлению:
 
 ![](/image/for_video/slackbuilds_arсhive.png)
 ><a class="red" href="https://disk.yandex.ru/i/ZMXOyq7f7NNFAQ" 
-> target="_blank" 
-> >***Установка 
-> программ из архивов.Slackbuilds*** </a> -
+> target="_blank" >***Установка программ из архивов.Slackbuilds*** </a> -
 >***"ссылка на видео"***
 
 ><a class="red" href="https://disk.yandex.ru/i/okghQ32tEv70CA" target="_blank" >***Установка 
