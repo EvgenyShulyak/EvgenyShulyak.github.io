@@ -84,7 +84,7 @@ org-mode in Emacs
 
 *Ролик org-mode взят с канала*:
 
->***[ссылка на канал Дмитрия Бушенко](https://www.youtube.com/watch?v=lpPS6JPUUME&t=590s/ 
+>***[ссылка на канал Дмитрия Бушенко](https://www.youtube.com/@dbushenko/ 
 > "org-mode")***
 > 
 ><a class="red" href="https://disk.yandex.ru/i/0rLAF0sSgKrgTQ" target="_blank" >***Базовые возможности Org-mode*** </a> -
