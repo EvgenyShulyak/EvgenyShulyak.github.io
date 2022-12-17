@@ -109,3 +109,51 @@ P.S. Информация к размышлению:
 
 
 
+Теперь позволю себе выложить видео с Английского канала:
+
+>***[OldTechBloke](https://www.youtube.com/watch?v=TyCR6Bh5yjs&list=PLIXhUtjbeUQvELTtKaJ2q360uWUNKaKU8)*** - (*ссылка на канал*)
+
+![](/image/for_video/Slackware_15_is_Released.png)
+><a class="red" href="https://disk.yandex.ru/i/cDrAc7hqn8Jovw" target="_blank" >***Выпущен Slackware 15! Дистрибутив, Который Вам действительно стоит попробовать, Потому что Вы того стоите!*** </a> - 
+>***"ссылка на видео"***
+
+*Небольшая навигация по ролику(только описание,не переключает на фрагменты)*
+
+**Slackware 15 is Released! A Distro You Really Should Try Because You're Worth It!**
+
+**Выпущен Slackware 15! Дистрибутив, Который Вам действительно стоит попробовать, Потому что Вы того стоите!**
+
+- Вступление
+
+00:00 - 10:39
+
+- Установка системы,DF,WM
+
+10:39 - 21:38
+
+- Установка grub,sudo,user
+
+21:38 - 26:57
+
+- Запуск,настройка системы
+
+26:57 - 36:39
+
+- Настройка grub,kernel
+
+36:39 - 43:10
+
+- Заключение
+
+43:10 - 44:43
+
+- Оригинал:
+
+https://www.youtube.com/watch?v=0yoP9xnh4jI&list=PLIXhUtjbeUQvELTtKaJ2q360uWUNKaKU8&index=10
+
+*В видео сделан Русский перевод с помощью Яндекс браузера*.
+
+*Думаю авторы ролика не будут иметь претензий!*
+
+
+
