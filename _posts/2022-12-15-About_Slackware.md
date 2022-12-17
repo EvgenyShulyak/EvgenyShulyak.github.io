@@ -149,7 +149,7 @@ P.S. Информация к размышлению:
 
 - Оригинал:
 
-[https://www.youtube.com/watch?v=0yoP9xnh4jI&list=PLIXhUtjbeUQvELTtKaJ2q360uWUNKaKU8&index=10]()
+[оригинал на YouTube](https://www.youtube.com/watch?v=0yoP9xnh4jI&list=PLIXhUtjbeUQvELTtKaJ2q360uWUNKaKU8&index=10)
 
 *В видео сделан Русский перевод с помощью Яндекс браузера*.
 
