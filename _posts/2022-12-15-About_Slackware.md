@@ -101,6 +101,7 @@ org-mode in Emacs
 
 *Yandex browser в Slackware 15*
 
+![](/image/for_video/yandex_browser.png)
 ><a class="red" href="https://disk.yandex.ru/i/zY7wfofRQpGj2g" target="_blank" >***slackware15_Yandex browser*** </a> - 
 >***"ссылка на видео"***
 
