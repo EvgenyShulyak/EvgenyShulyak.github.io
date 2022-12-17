@@ -78,7 +78,7 @@ P.S. Информация к размышлению:
 >***"ссылка на видео"*** 
 
 ![](/image/for_video/org_emacs.png) 
->***[org-mode in Emacs](https://disk.yandex.ru/i/IKJDmk1vcdTOQg/ "org-mode in Emacs")
+>***[org-mode in Emacs](https://disk.yandex.ru/i/IKJDmk1vcdTOQg/ "org-mode in Emacs")***
 
 ![](/image/for_video/org-mode.png)
 ><a class="red" href="https://disk.yandex.ru/i/0rLAF0sSgKrgTQ" target="_blank" >***Базовые возможности Org-mode*** </a> -
