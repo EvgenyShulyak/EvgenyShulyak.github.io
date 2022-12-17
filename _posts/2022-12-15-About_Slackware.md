@@ -91,6 +91,10 @@ org-mode in Emacs
 ><a class="red" href="https://disk.yandex.ru/i/zbnQ2Vv9Bl1ZFg" target="_blank" >***slackware xampp wordpress*** </a> -
 >***"ссылка на видео"***
 
+Прикрепляю на всякий случай файл конфигурации базы данных:
+
+[Ссылка на файл базы данных](https://disk.yandex.ru/d/yxyqxD84O4CMNQ/"сам_файл")
+
 *Yandex browser в Slackware 15*
 
 ><a class="red" href="https://disk.yandex.ru/i/zY7wfofRQpGj2g" target="_blank" >***slackware15_Yandex browser*** </a> - 
