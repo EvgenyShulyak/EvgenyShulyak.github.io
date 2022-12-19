@@ -162,6 +162,8 @@ P.S. Информация к размышлению:
 
 В Slackware он сделан по умолчанию,можно выбрать используя команду ***xwmconfig***.
 
+![](/image/for_video/fluxbox.jpg)
+
 ![](C:\Users\jenit\Documents\Git\EvgenyShulyak.github.io\image\for_video\fluxbox.jpg)
 
 [**fluxbox in Slackware**](https://disk.yandex.ru/i/jdv3vdgfv0JrCA) - ***ссылка на видео***
