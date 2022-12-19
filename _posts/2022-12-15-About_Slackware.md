@@ -19,12 +19,12 @@ P.S. Информация к размышлению:
 
 **И так,начинаю выкладывать**:
 
-![](/image/for_video/slackbuilds_archive.png)
+![](C:\Users\jenit\Documents\Git\EvgenyShulyak.github.io\image\for_video\slackbuilds_archive.png)
 
 ><a class="red" href="https://disk.yandex.ru/i/ZMXOyq7f7NNFAQ" target="_blank" >***Установка программ из архивов.Slackbuilds*** </a> -
 >***"ссылка на видео"***
 
-![](/image/for_video/slackbuilds_inxi.png)
+![](C:\Users\jenit\Documents\Git\EvgenyShulyak.github.io\image\for_video\slackbuilds_inxi.png)
 ><a class="red" href="https://disk.yandex.ru/i/okghQ32tEv70CA" target="_blank" >***Установка 
 > программы inxi в Slackware 14.2*** </a> -
 >***"ссылка на видео"***
@@ -34,7 +34,7 @@ P.S. Информация к размышлению:
 все необходимые библиотеки.Посему разработчики рекомендуют устанавливать все.Проще потом из 
 установленной системы удалить программу.Библиотеки останутся*.
 
-![](/image/for_video/remove_KDE4.png)
+![](C:\Users\jenit\Documents\Git\EvgenyShulyak.github.io\image\for_video\remove_KDE4.png)
 ><a class="red" href="https://disk.yandex.ru/i/Yn41F7sxvcs6jA" target="_blank" >***Удаление 
 > рабочего стола KDE4*** </a> -
 >***"ссылка на видео"***
@@ -74,14 +74,14 @@ P.S. Информация к размышлению:
 
 ***Emacs; org-mode***
 
-![](/image/for_video/emacs.png)
+![](C:\Users\jenit\Documents\Git\EvgenyShulyak.github.io\image\for_video\emacs.png)
 ><a class="red" href="https://disk.yandex.ru/i/YF_rfJKJq6jS0g" target="_blank" >***Emacs*** </a> -
 >***"ссылка на видео"*** 
 
-![](/image/for_video/org_emacs.png) 
+![](C:\Users\jenit\Documents\Git\EvgenyShulyak.github.io\image\for_video\org_emacs.png)
 >***[org-mode in Emacs](https://disk.yandex.ru/i/IKJDmk1vcdTOQg/ "org-mode in Emacs")***
 
-![](/image/for_video/org-mode.png)
+![](C:\Users\jenit\Documents\Git\EvgenyShulyak.github.io\image\for_video\org-mode.png)
 ><a class="red" href="https://disk.yandex.ru/i/0rLAF0sSgKrgTQ" target="_blank" >***Базовые возможности Org-mode*** </a> -
 >***"ссылка на видео"***
 
@@ -94,7 +94,7 @@ P.S. Информация к размышлению:
 
 *Wordpress в Slackware 14.2(но уверен будет работать и в новых версиях)*
 
-![](/image/for_video/wordpress.png)
+![](C:\Users\jenit\Documents\Git\EvgenyShulyak.github.io\image\for_video\wordpress.png)
 ><a class="red" href="https://disk.yandex.ru/i/zbnQ2Vv9Bl1ZFg" target="_blank" >***slackware xampp wordpress*** </a> -
 >***"ссылка на видео"***
 
@@ -104,17 +104,15 @@ P.S. Информация к размышлению:
 
 *Yandex browser в Slackware 15*
 
-![](/image/for_video/yandex_browser.png)
+![](C:\Users\jenit\Documents\Git\EvgenyShulyak.github.io\image\for_video\yandex_browser.png)
 ><a class="red" href="https://disk.yandex.ru/i/zY7wfofRQpGj2g" target="_blank" >***slackware15_Yandex browser*** </a> - 
 >***"ссылка на видео"***
-
-
 
 Теперь позволю себе выложить видео с Английского канала:
 
 >***[OldTechBloke](https://www.youtube.com/watch?v=TyCR6Bh5yjs&list=PLIXhUtjbeUQvELTtKaJ2q360uWUNKaKU8)*** - ***"ссылка на канал"***
 
-![](/image/for_video/Slackware_15_is_Released.png)
+![](C:\Users\jenit\Documents\Git\EvgenyShulyak.github.io\image\for_video\Slackware_15_is_Released.png)
 ><a class="red" href="https://disk.yandex.ru/i/cDrAc7hqn8Jovw" target="_blank" >***Выпущен Slackware 15! Дистрибутив, Который Вам действительно стоит попробовать, Потому что Вы того стоите!*** </a> - 
 >***"ссылка на видео"***
 
