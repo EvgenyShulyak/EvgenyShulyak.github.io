@@ -154,5 +154,21 @@ P.S. Информация к размышлению:
 
 *Думаю авторы ролика не будут иметь претензий!*
 
+****
+
+Еще одно видео предыдущего автора.
+
+Оконный менеджер(WM) ***fluxbox***.
+
+В Slackware он сделан по умолчанию,можно выбрать используя команду ***xwmconfig***.
+
+![](C:\Users\jenit\Documents\Git\EvgenyShulyak.github.io\image\for_video\fluxbox.jpg)
+
+[**fluxbox in Slackware**](https://disk.yandex.ru/i/jdv3vdgfv0JrCA) - ***ссылка на видео***
+
+[***оригинал видео с канала OldTechBloke***](https://www.youtube.com/watch?v=WQ-XQUobA4A) - ***ссылка на видео***
+
+*****
+
 
 
