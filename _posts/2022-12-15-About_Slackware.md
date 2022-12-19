@@ -3,7 +3,8 @@ layout: post
 title:  Video about Slackware
 categories: Video help, News
 ---
-![](/image/my_image/slackware_bannerlogo.png)
+
+![](C:\Users\jenit\Documents\Git\EvgenyShulyak.github.io\image\my_image\slackware_bannerlogo.png)
 
 Здесь я попробовал собрать видео о Slackware на русском языке,но их практически нет.Только в 
 основном установка.Как работать с дистрибутивом получается это проблемы пользователя.Хорошо если 
