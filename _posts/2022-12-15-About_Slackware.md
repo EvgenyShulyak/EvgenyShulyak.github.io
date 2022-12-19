@@ -19,8 +19,8 @@ P.S. Информация к размышлению:
 **И так,начинаю выкладывать**:
 
 ![](/image/for_video/slackbuilds_archive.png)
-><a class="red" href="https://disk.yandex.ru/i/ZMXOyq7f7NNFAQ" 
-> target="_blank" >***Установка программ из архивов.Slackbuilds*** </a> -
+
+><a class="red" href="https://disk.yandex.ru/i/ZMXOyq7f7NNFAQ" target="_blank" >***Установка программ из архивов.Slackbuilds*** </a> -
 >***"ссылка на видео"***
 
 ![](/image/for_video/slackbuilds_inxi.png)
