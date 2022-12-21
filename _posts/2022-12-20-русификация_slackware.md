@@ -32,7 +32,7 @@ categories: News Slackware
 >
 >#export LANG=en_US
 >
->xport LANG=ru_RU.UTF-8
+>export LANG=ru_RU.UTF-8
 
 **сохранить:**
 
