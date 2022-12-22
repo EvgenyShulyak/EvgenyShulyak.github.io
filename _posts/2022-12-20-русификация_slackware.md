@@ -28,7 +28,6 @@ categories: News Slackware
 >
 >#en_US is the Slackware default locale:
 >
->/etc/profile.d/lang.sh
 >
 >#export LANG=en_US
 >
@@ -62,7 +61,7 @@ categories: News Slackware
 >
 >#setenv LANG en_US
 >
->etenv LANG ru_RU.UTF-8
+>setenv LANG ru_RU.UTF-8
 
 **сохранить:**
 
