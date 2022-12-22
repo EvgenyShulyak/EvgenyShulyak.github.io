@@ -19,7 +19,11 @@ P.S. Информация к размышлению:
 
 **И так,начинаю выкладывать**:
 
-![](/image/for_video/slackbuilds_archive.png)
+---
+layout: page
+title: About
+permalink: /about/
+---
 ![](C:\Users\jenit\Documents\Git\EvgenyShulyak.github.io\image\for_video\slackbuilds_archive.png)
 ><a class="red" href="https://disk.yandex.ru/i/ZMXOyq7f7NNFAQ" target="_blank" >***Установка программ из архивов.Slackbuilds*** </a> -
 >***"ссылка на видео"***
