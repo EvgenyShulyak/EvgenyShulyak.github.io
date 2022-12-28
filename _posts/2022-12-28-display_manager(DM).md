@@ -69,6 +69,10 @@ TuiGreet
 
 - https://git.sr.ht/~kennylevinsen/greetd || greetdAUR
 
+Также можно упомянуть Fly-DM (используемый в AstraLinux).
+
+![](/image/DM/fly.jpg)
+
 #### Консольные
 
 **CDM** — ультра-минималистичный, но полнофункциональный менеджер входа, написанный на Bash.
