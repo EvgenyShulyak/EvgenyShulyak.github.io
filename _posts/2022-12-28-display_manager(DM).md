@@ -8,32 +8,7 @@ categories: News Linux
 
 ![](/image/DM/slim.png)
 
-#### Консольные
-
-**CDM** — ультра-минималистичный, но полнофункциональный менеджер входа, написанный на Bash.
-
-- https://github.com/evertiro/cdm || cdmAUR
-
-**Console TDM** — расширение для xinit, также написанное на Bash.
-
-- https://github.com/dopsi/console-tdm || console-tdmAUR
-
-**nodm** — минималистичный экранный менеджер для автоматического входа.
-
-- https://github.com/spanezz/nodm || nodm
-
-**Ly** — легковесный TUI (ncurses-like) экспериментальный менеджер входа.
-
-- https://github.com/nullgemm/ly || lyAUR
-
-**tbsm** — лаунчер сессий или приложений, написанный на чистом bash. Поддерживает сеансы X и 
-Wayland.
-
-- https://loh-tar.github.io/tbsm/ || tbsmAUR
-
-**emptty** — совершенно простой менеджер CLI на TTY с поддержкой X и Wayland.
-
-- https://github.com/tvrzna/emptty/ || emptty-gitAUR
+Slim
 
 #### Графические
 
@@ -91,3 +66,30 @@ QTGreet
 TuiGreet
 
 - https://git.sr.ht/~kennylevinsen/greetd || greetdAUR
+
+#### Консольные
+
+**CDM** — ультра-минималистичный, но полнофункциональный менеджер входа, написанный на Bash.
+
+- https://github.com/evertiro/cdm || cdmAUR
+
+**Console TDM** — расширение для xinit, также написанное на Bash.
+
+- https://github.com/dopsi/console-tdm || console-tdmAUR
+
+**nodm** — минималистичный экранный менеджер для автоматического входа.
+
+- https://github.com/spanezz/nodm || nodm
+
+**Ly** — легковесный TUI (ncurses-like) экспериментальный менеджер входа.
+
+- https://github.com/nullgemm/ly || lyAUR
+
+**tbsm** — лаунчер сессий или приложений, написанный на чистом bash. Поддерживает сеансы X и 
+Wayland.
+
+- https://loh-tar.github.io/tbsm/ || tbsmAUR
+
+**emptty** — совершенно простой менеджер CLI на TTY с поддержкой X и Wayland.
+
+- https://github.com/tvrzna/emptty/ || emptty-gitAUR
