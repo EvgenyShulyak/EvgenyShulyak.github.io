@@ -46,6 +46,8 @@ Plasma 5 и LXQt.
 
 **XDM** — экранный менеджер с поддержкой XDMCP.
 
+![](/image/DM/Xdm.jpg)
+
 xdm || xorg-xdm
 
 #### Демоны входа
