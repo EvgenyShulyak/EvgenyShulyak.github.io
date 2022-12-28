@@ -1,6 +1,6 @@
 ---
 layout: post
-title: askubuntu 
+title: askubuntu (В чем разница)
 categories: Interesting News
 ---
 
