@@ -86,7 +86,9 @@ category: Linux
 нужно отредактировать **/etc/sudoers** и позволить одному юзеру запускать твой файл с привелегиями рута
 Файл обязательно нужно запретить редактировать данному юзеру
 
- * Allow members of group sudo to execute any command
+> * Allow members of group sudo to execute any command
+>
+>* (Разрешить членам группы sudo выполнять любую команду)
 
 > %sudo ALL=(ALL:ALL) ALL
 > user ALL = NOPASSWD: /home/user/Documents/script.sh
