@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome to Jekyll!"
 date: 2016-06-19 21:06:26 +0800
-categories: Jekyll
+categories: Jekyll News
 ---
  You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to 
   see your changes. You can rebuild the site in many different ways, but the most common way is 
