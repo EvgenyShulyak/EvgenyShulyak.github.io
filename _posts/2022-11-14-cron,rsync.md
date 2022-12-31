@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  cron and rsync
-categories: News Linux Program
+title:  "cron and rsync"
+categories: News Program
 ---
 
 
