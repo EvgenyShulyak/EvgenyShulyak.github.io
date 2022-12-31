@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Midnight Commander (mc)
-categories: News Linux
+categories: News Linux Program
 ---
 
 
