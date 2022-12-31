@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "cron and rsync"
+title: "cron and rsync"
 categories: News Program
 ---
 
