@@ -1,9 +1,8 @@
 ---
 layout: post
-title: "cron and rsync"
-categories: News Program
+title:  "cron && rsynk"
+categories: News Linux
 ---
-
 
 #### *Есть много полезных консольных команд и приложений.Приведу здесь две пожалуй самые необходимые консольные программы:*
 
