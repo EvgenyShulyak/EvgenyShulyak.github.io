@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Slackware
-categories: News Interesting
+category: Slackware
 ---
 
 ![](/image/my_image/slackware15.png)
