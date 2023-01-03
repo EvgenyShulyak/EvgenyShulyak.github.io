@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Video about Slackware
-categories: Video help, Interesting
+category: Video_help
 ---
 ![](/image/my_image/slackware_bannerlogo.png)
 ![](C:\Users\jenit\Documents\Git\EvgenyShulyak.github.io\image\my_image\slackware_bannerlogo.png)
