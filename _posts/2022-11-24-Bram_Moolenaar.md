@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bram Moolenaar
-categories: News Interesting
+category: Interesting
 ---
 ![](/image/my_image/Bram_Moolenaar_in_2007.jpg)
 

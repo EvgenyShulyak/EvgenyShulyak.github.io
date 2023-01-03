@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  archivers in terminal
-categories: News Linux
+category: Linux
 ---
 
 #### **Архив ZIP**

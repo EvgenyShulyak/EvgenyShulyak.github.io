@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  hotkey vim
-categories: News Linux
+category: Linux
 ---
 
 ### Горячие клавиши vim

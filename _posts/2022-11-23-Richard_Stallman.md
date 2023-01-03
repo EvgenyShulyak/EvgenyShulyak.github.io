@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ричард Столлман  
-categories: Interesting News
+category: Interesting
 ---
 
 ![](/image/my_image/Richard_Stallman.jpg)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: briefly about wget
-categories: News Linux
+category: Linux
 ---
 
 

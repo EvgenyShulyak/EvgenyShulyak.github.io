@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  mount flash
-categories: News Linux
+category: Linux
 ---
 
 ### Монтирование флешек_mount

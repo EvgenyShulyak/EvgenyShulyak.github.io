@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  hotkey emacs
-categories: News Linux
+category: Linux
 ---
 
 #### *Запустить emacs в консоле:*

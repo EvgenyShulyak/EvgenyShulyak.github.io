@@ -1,7 +1,7 @@
 ---
 layout: post
 title: briefly about youtube-dl
-categories: News Linux
+category: Linux
 ---
 
 ***youtube-dl*** есть в каталогах пакетов некоторых дистрибутивов **Linux**:
