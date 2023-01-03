@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  nanorc config
-categories: News Linux
+category: Linux
 ---
 
 **(#)** Для снятия(установки) параметра нужно закомментировать(убрать комментарий) т.е. знак 
