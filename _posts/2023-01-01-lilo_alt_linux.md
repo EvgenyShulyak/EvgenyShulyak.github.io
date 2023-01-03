@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Восстановления загрузчика LILO в ALT Linux
-categories: News Linux
+category: Linux
 ---
 
  Для восстановления загрузчика **LILO** достаточно любым доступным способом загрузить **Linux** и 

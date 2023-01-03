@@ -1,7 +1,7 @@
 ---
 layout: post
 title: screenkey
-categories: News Program
+category: Program
 ---
 
 ![](/image/screenkey.jpg)

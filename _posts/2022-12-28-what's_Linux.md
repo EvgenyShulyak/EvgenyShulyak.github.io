@@ -1,7 +1,7 @@
 ---
 layout: post
 title: что такое Линукс (Linux)
-categories: News Interesting
+category: Interesting
 ---
 
 Термин **Linux**
