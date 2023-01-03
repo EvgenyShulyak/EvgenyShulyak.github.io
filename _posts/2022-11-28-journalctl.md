@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  journalctl
-categories: News Linux Program
+category: Linux
 ---
 
 ***journalctl — это инструмент, используемый для работы с журналом***.
