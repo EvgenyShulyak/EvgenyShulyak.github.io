@@ -11,6 +11,7 @@ category: Linux
 - cat /etc/os-pelease
 - cat /etc/*-release
 - cat /proc/version
+- lsb_release -a
 
 ***Более расширенные данные***
 
