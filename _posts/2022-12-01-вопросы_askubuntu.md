@@ -1,7 +1,7 @@
 ---
 layout: post
 title: askubuntu (В чем разница)
-categories: Interesting News
+category: Interesting
 ---
 
  ***Собраны лучшие вопросы из серии "в чем разница", размещенные на сервисе askubuntu. Вопросы 

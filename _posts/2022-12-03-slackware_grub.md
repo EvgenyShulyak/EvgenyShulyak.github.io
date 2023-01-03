@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Обновление ядра в Slackware grub
-categories: News Slackware
+category: Slackware
 ---
 
 The key thing here is to reject the options to install Lilo or ELilo and drop back to a root prompt after installation has finished but before rebooting.  Then issue the following commands:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Обновление ядра в Slackware elilo
-categories: News Slackware
+category: Slackware
 ---
 
 ***Взято:  20.03.2022  https://slackware-alive.ru/update-kernel-elilo/***

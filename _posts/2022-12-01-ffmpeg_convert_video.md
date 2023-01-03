@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  ffmpeg
-categories: News Linux Program
+category: Program
 ---
 
 ***Конвертируйте видео файлы в вашей системе Linux с помощью FFmpeg***.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Обновление ядра в Slackware lilo
-categories: News Slackware
+category: Slackware
 ---
 
  Обновление ядра в **Slackware** проходит автоматически при выполнении команды **slackpkg 
