@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  about Video help
-category: Video help
+category: Video help, Interesting
 ---
 
 Здесь я буду выкладывать ссылки на видео,которые помогли и помогают мне при работе и изучении 
