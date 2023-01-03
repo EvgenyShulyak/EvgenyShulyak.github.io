@@ -92,5 +92,15 @@ category: Linux
 
 - inxi --help
 
+#### **Сведения о компьютере**
 
+- sudo lshw
+
+- sudo lshw -short
+
+*Немного дополним предыдущую команду*:
+
+- sudo lshw -html > system_info.html
+
+И в домашней директории появился файл **system_info.html**, который мы сможем просмотреть в любом интернет браузере.
 
