@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  display manager (DM)
-categories: News Linux
+category: Linux
 ---
 
 **slim** = *Независимый от рабочей среды лёгкий графический экранный менеджер*

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Slackware Linux Project
-categories: News Slackware
+category: Slackware
 ---
 
 **Проект Slackware Linux: справка по настройке![](/image/project/Aspose.Words.c2a4e8f6-d8c0-404d-85b5-30a5bd0e1b70.001.png)**

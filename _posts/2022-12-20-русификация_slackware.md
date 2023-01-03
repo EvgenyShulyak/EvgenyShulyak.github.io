@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Русификация Slackware
-categories: News Slackware
+category: Slackware
 ---
 
  Если вы установили дистрибутив полностью, то вам необходимо поменять всего лишь пару строк 

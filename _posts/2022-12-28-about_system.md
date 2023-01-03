@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Просмотр данных о системе(касается Linux)
-categories: News Interesting
+category: Linux
 ---
 
 ### Эти утилиты из "коробки"

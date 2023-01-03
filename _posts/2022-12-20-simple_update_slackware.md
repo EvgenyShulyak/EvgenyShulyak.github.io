@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  simple update Slackware
-categories: News Slackware
+category: Slackware
 ---
 
 #### Для простого и быстрого обновления Вашего Slackware:

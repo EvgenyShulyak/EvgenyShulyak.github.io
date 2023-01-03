@@ -1,7 +1,7 @@
 ---
 layout: post
 title: X Window System
-categories: News Slackware
+category: Slackware
 ---
 
 #### **Система X Window**

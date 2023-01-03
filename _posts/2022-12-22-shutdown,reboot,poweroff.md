@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Консольные команды для выключения Linux
-categories: News Linux
+category: Linux
 ---
 
 #### Способ 1: shutdown
