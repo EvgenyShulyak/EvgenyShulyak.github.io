@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  hostnamectl
-categories: News Linux
+category: Linux
 ---
 
 Для отображения данных достаточно активировать в консоли:

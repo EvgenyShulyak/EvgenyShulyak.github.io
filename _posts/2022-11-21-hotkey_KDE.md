@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  hotkey KDE
-categories: News Linux
+category: Linux
 ---
 
 - Ctrl + Esc — запустить системный монитор;
