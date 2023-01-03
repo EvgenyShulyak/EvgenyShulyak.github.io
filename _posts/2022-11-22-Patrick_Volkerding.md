@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Patrick Volkerding  
-categories: Interesting News
+category: Interesting
 ---
 ### Patrick Volkerding 
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  date and time
-categories: News Linux
+category: Linux
 ---
 
 - %a - день недели, сокращенное название;

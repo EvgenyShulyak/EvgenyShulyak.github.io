@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  youtube-dl
-categories: News Linux Program
+category: Program
 ---
 
 
