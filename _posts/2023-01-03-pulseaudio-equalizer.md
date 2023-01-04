@@ -48,8 +48,8 @@ categories: News Program
 
 ![](/image/equalizer/preview_video.jpg)
 
-><a class="red" href="https://disk.yandex.ru/i/t2sI-ExPTEo0jw" target="_blank" >
->
->***pulseaudio-equalizer-ladspa.Install in RosaFresh 12.3*** </a> - 
->
->***"ссылка на видео"***
+<a class="red" href="https://disk.yandex.ru/i/t2sI-ExPTEo0jw" target="_blank" >
+
+***pulseaudio-equalizer-ladspa.Install in RosaFresh 12.3*** </a> - 
+
+***"ссылка на видео"***
