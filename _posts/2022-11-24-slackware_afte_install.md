@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  slackware afte install
-category: Linux
+category: Slacware
 ---
 
 

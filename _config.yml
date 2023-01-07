@@ -31,6 +31,8 @@ disqus_shortname:
 # used this for post_excerpt at index_page
 excerpt_separator: <!--description-->
 
-# gems:
-# gems: [jekyll-paginate]
-# paginate: 4
+gems:
+  -jekyll-paginate
+  -jekyll-sitemap
+
+paginate: 4
