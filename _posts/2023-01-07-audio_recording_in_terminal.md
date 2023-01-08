@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Запись звука с микрофона в терминале
-category: Linux News
+category: News Linux
 ---
 
 #### Способ 1
