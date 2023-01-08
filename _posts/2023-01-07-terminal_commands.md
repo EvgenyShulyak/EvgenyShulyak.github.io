@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Основные команды терминала
-category: News Linux
+categories: News Linux
 ---
 
 
